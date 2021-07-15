@@ -16,6 +16,10 @@
   h1 {
     font-size: 5rem;
   }
+
+  main {
+    height: 40vh;
+  }
   .between {
     font-size: 1.7rem;
     top: 4rem;
@@ -32,6 +36,9 @@
     padding-left: 4%;
     text-align: center;
     line-height: 120%;
+  }
+  main {
+    height: 35vh;
   }
 }
 /*for small phones from 0 to 480px */
