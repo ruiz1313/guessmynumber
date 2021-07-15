@@ -18,7 +18,7 @@
   }
 
   main {
-    height: 40vh;
+    height: 45vh;
   }
   .between {
     font-size: 1.7rem;
@@ -38,7 +38,7 @@
     line-height: 120%;
   }
   main {
-    height: 35vh;
+    height: 40vh;
   }
 }
 /*for small phones from 0 to 480px */
