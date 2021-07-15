@@ -20,6 +20,9 @@
     font-size: 1.7rem;
     top: 4rem;
   }
+  .message {
+    padding-left: 2%;
+  }
 }
 /*from small phones to small tablets from 481px to 767px */
 @media only screen and (max-width: 767px) {
